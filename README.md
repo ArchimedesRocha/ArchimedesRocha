@@ -1,6 +1,9 @@
 <!--
 **ArchimedesRocha/ArchimedesRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
+
+![Avatar](https://user-images.githubusercontent.com/37880804/90513325-d6b62900-e135-11ea-9f89-f5090dabc26d.PNG)
+
 #### :star2: About me
 * Hi! I am a passionate programming student, although my current area of ​​expertise is networks, I thought, why not join the two and work with network development?
 * I have a beautiful wife :cupid:
