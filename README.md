@@ -5,7 +5,7 @@
 * Hi! I am a passionate programming student, although my current area of ​​expertise is networks, I thought, why not join the two and work with network development?
 * I have a beautiful wife :cupid:
 
-#### :dizzy: Seeking knowledge for help people.
+#### :bulb: Seeking knowledge for help people.
 * I learn about creating projects that can make people's lives easier, doesn't matter the technology stack.
 
 #### :hocho: Goals for 2020
