@@ -12,5 +12,12 @@ I learn about creating projects that can make people's lives easier, doesn't mat
 * Enter the programming market as a developer
 * Launch a real product with React and React Native
 
-#### What's up? wanna chat?
-Call on Chat [Linkedin](https://www.linkedin.com/in/archimedes-rocha-81334827/)
+#### What's up? Wanna chat?
+Call on Chat [Linkedin](https://www.linkedin.com/in/archimedes-rocha-81334827/) to talk about any of the following:
+* Programming stuff
+* Network stuff
+* Game og Thrones
+* Lord of the Rings
+* Star Wars
+
+
