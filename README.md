@@ -1,5 +1,6 @@
 <!--
 **ArchimedesRocha/ArchimedesRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 :triangular_flag_on_post: Hi! I am a passionate programming student, although my current area of ​​expertise is networks, I thought, why not join the two and work with network development?
 
@@ -14,4 +15,3 @@ I learn about creating projects that can make people's lives easier.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
