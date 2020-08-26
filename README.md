@@ -17,7 +17,7 @@
 * Launch a real product with React and React Native
 
 #### :speech_balloon: What's up? Wanna chat?
-Call on Chat [Linkedin](https://www.linkedin.com/in/archimedes-rocha-81334827/) to talk about any of the following:
+Call on Chat to talk about any of the following:
 * Programming stuff
 * Network stuff
 * Game of Thrones
