@@ -11,7 +11,7 @@
 #### :bulb: Seeking knowledge for help people.
 * I learn about creating projects that can make people's lives easier, doesn't matter the technology stack.
 
-#### :hocho: Goals for 2020
+#### :hocho: Goals for 2021
 * Improve my English
 * Enter the programming market as a developer
 * Launch a real product with React and React Native
