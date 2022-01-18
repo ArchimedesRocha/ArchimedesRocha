@@ -11,9 +11,11 @@
 #### :bulb: Seeking knowledge for help people.
 * I learn about creating projects that can make people's lives easier, doesn't matter the technology stack.
 
-#### :hocho: Goals for 2021
+#### :hocho: Conquests in 2021
+:white_check_mark: Enter the programming market as a developer
+
+#### :hocho: Goals for 2022
 * Improve my English
-* Enter the programming market as a developer
 * Launch a real product with React and React Native
 
 #### :speech_balloon: What's up? Wanna chat?
