@@ -11,7 +11,7 @@
 #### :bulb: Seeking knowledge for help people.
 * I learn about creating projects that can make people's lives easier, doesn't matter the technology stack.
 
-#### :hocho: Conquests in 2021
+#### :trophy: Conquests in 2021
 :white_check_mark: Enter the programming market as a developer
 
 #### :hocho: Goals for 2022
