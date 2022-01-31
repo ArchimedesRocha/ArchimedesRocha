@@ -5,7 +5,7 @@
 ![Avatar](https://user-images.githubusercontent.com/37880804/90513325-d6b62900-e135-11ea-9f89-f5090dabc26d.PNG)
 
 #### :star2: About me
-* Hi! I am a passionate programming student, although my current area of ​​expertise is networks, I thought, why not join the two and work with network development?
+* Hi! I'm a programmer passionate about my profession, I work today as a fullstack PHP dev and I'm learning JavaScript and React currently.
 * I have a beautiful wife :cupid:
 
 #### :bulb: Seeking knowledge for help people.
@@ -16,15 +16,13 @@
 
 #### :hocho: Goals for 2022
 * Improve my English
-* Launch a real product with React and React Native
+* Launch a real product with React
 
 #### :speech_balloon: What's up? Wanna chat?
 Call on Chat to talk about any of the following:
 * Programming stuff
 * Network stuff
-* Game of Thrones
-* Lord of the Rings
-* Star Wars
+* Animes
 
 #### :tv: Social Media
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/archimedes-rocha-81334827/)](https://www.linkedin.com/in/archimedes-rocha-81334827/)
