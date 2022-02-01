@@ -1,5 +1,5 @@
 <!--
-**ArchimedesRocha/Archimedes_Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ArchimedesRocha/ArchimedesRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 #### :trophy: Conquests in 2021
