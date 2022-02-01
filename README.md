@@ -1,8 +1,6 @@
 <!--
-**ArchimedesRocha/ArchimedesRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ArchimedesRocha/Archimedes_Rocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-
-![Avatar](https://user-images.githubusercontent.com/37880804/90513325-d6b62900-e135-11ea-9f89-f5090dabc26d.PNG)
 
 #### :trophy: Conquests in 2021
 * :white_check_mark: Enter the programming market as a developer
