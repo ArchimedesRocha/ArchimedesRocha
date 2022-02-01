@@ -4,13 +4,6 @@
 
 ![Avatar](https://user-images.githubusercontent.com/37880804/90513325-d6b62900-e135-11ea-9f89-f5090dabc26d.PNG)
 
-#### :star2: About me
-* Hi! I'm a programmer passionate about my profession, I work today as a fullstack PHP dev and I'm learning JavaScript and React currently.
-* I have a beautiful wife :cupid:
-
-#### :bulb: Seeking knowledge for help people.
-* I learn about creating projects that can make people's lives easier, doesn't matter the technology stack.
-
 #### :trophy: Conquests in 2021
 * :white_check_mark: Enter the programming market as a developer
 
