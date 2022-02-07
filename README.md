@@ -12,4 +12,4 @@
 #### :speech_balloon: What's up? Wanna chat?
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/archimedes-rocha-81334827/)](https://www.linkedin.com/in/archimedes-rocha-81334827/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+5582988861433&text=Hello!)](https://api.whatsapp.com/send?phone=+5582988861433&text=Hello!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.archimedesrocha@gmail.com)](mailto:archimedes.redes@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.archimedesrocha@gmail.com)](mailto:dev.archimedesrocha@gmail.com)
