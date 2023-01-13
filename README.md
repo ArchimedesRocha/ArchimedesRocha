@@ -12,7 +12,7 @@
 ### Github Trophy:
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArchimedesRocha)](https://github.com/ArchimedesRocha/github-profile-trophy)
 
-<h3 align="left">:hocho:  Goals for 2023:</h3>
+###:hocho:  Goals for 2023:
 * Work for a Canadian company
 * Improve my English
 * Launch a real product with React
