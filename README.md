@@ -9,6 +9,9 @@
 * :white_check_mark: I learned several technologies like sass, react js and its hooks, typescript, style-components and frameworks like next.js
 * :white_check_mark: Improve my english
 
+#### :trophy: Github Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=ArchimedesRocha)](https://github.com/ArchimedesRocha/github-profile-trophy)
+
 #### :hocho: Goals for 2023
 * Work for a Canadian company
 * Improve my English
