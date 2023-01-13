@@ -5,7 +5,7 @@
 :trophy: Conquests in 2021:
 * :white_check_mark: Enter the programming market as a developer
 
-##:trophy: Conquests in 2022:
+:trophy: Conquests in 2022:
 * :white_check_mark: I learned several technologies like sass, react js and its hooks, typescript, style-components and frameworks like next.js
 * :white_check_mark: Improve my english
 
