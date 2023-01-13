@@ -2,21 +2,26 @@
 **ArchimedesRocha/ArchimedesRocha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+
 <h3>:trophy: Conquests in 2021:</h3>
-* :white_check_mark: Enter the programming market as a developer
+:white_check_mark: Enter the programming market as a developer
+
 
 <h3>:trophy: Conquests in 2022:</h3>
-* :white_check_mark: I learned several technologies like sass, react js and its hooks, typescript, style-components and frameworks like next.js
-* :white_check_mark: Improve my english
+:white_check_mark: I learned several technologies like sass, react js and its hooks, typescript, style-components and frameworks like next.js
+:white_check_mark: Improve my english
+
 
 <h3>Github Trophy:</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArchimedesRocha)](https://github.com/ArchimedesRocha/github-profile-trophy)
 
+
 <h3>:hocho:  Goals for 2023:</h3>
-* Work for a Canadian company
-* Improve my English
-* Launch a real product with React
+- Work for a Canadian company
+- Improve my English
+- Launch a real product with React
+
 
 <h3>:speech_balloon: What's up? Wanna chat</h3>
 
