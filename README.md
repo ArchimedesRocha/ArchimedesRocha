@@ -5,7 +5,12 @@
 #### :trophy: Conquests in 2021
 * :white_check_mark: Enter the programming market as a developer
 
-#### :hocho: Goals for 2022
+#### :trophy: Conquests in 2022
+* :white_check_mark: Enter the programming market as a developer
+* :white_check_mark: Improve my english
+
+#### :hocho: Goals for 2023
+* Work for a Canadian company
 * Improve my English
 * Launch a real product with React
 
