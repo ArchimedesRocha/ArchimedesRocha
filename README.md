@@ -25,7 +25,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArchimedesRocha)](https://github.com/ArchimedesRocha/github-profile-trophy)
 
 
-<h3>:hocho:  Goals for 2023:</h3>
+<h3>:hocho:  Goals for 2024:</h3>
 
 - Do 1 Milion Reals with my company
 - Improve my English to C1
