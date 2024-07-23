@@ -15,6 +15,11 @@
 :white_check_mark: Improve my english
 
 
+<h3>:trophy: Conquests in 2023:</h3>
+
+:white_check_mark: Improve my english to B1
+
+
 <h3>Github Trophy:</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ArchimedesRocha)](https://github.com/ArchimedesRocha/github-profile-trophy)
@@ -22,10 +27,8 @@
 
 <h3>:hocho:  Goals for 2023:</h3>
 
-- Work for a Canadian company
-- Improve my English
-- Launch a real product with React
-
+- Do 1 Milion Reals with my company
+- Improve my English to C1
 
 <h3>:speech_balloon: What's up? Wanna chat</h3>
 
