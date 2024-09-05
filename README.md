@@ -27,7 +27,7 @@
 
 <h3>:hocho:  Goals for 2024:</h3>
 
-- Do 1 Milion Reals with my company
+- Learner more aboute React
 - Improve my English to C1
 
 <h3>:speech_balloon: What's up? Wanna chat</h3>
