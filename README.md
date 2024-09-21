@@ -27,8 +27,9 @@
 
 <h3>:hocho:  Goals for 2024:</h3>
 
-- Learner more aboute React
+- Learner more aboute React, Next and TypeScript and Redux.
 - Improve my English to C1
+- Working a Multinational Company
 
 <h3>:speech_balloon: What's up? Wanna chat</h3>
 
